@@ -1,0 +1,15 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: black;
+}
+#map {
+    height: 100vh;
+}
+h1 {
+    text-align: center; /* Center-aligns the heading */
+    color: black;
+}
+html {
+    background-color: #ffffff;
+}
