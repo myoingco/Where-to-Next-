@@ -52,11 +52,3 @@ h1 {
     margin: 0;                /* Remove default margin */
     padding: 0;               /* Remove any padding */
 }
-
-/* Optional: Set a background color for the h1 */
-h1 {
-    background: rgba(0, 0, 0, 0.5);  /* Semi-transparent black background */
-    padding: 10px;
-    border-radius: 5px;
-}
-
