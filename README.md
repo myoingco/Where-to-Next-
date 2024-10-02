@@ -29,13 +29,15 @@ Complete the following steps:
     - Country
     - Latitude
     - Longitude
-    
-    <img width="406" alt="Screenshot 2024-10-02 at 1 34 56 PM" src="https://github.com/user-attachments/assets/53175843-1fb7-46ee-8d83-1eea791f6ad2">
 
 
-2) Convert the CSV file into a JSON file utilizing Python.
+        <img width="406" alt="Screenshot 2024-10-02 at 1 34 56 PM" src="https://github.com/user-attachments/assets/53175843-1fb7-46ee-8d83-1eea791f6ad2">
 
- <img width="638" alt="Screenshot 2024-10-02 at 1 35 23 PM" src="https://github.com/user-attachments/assets/63d49800-14d3-4216-b659-7613e2a1654b">
+
+1) Convert the CSV file into a JSON file utilizing Python.
+
+
+   <img width="638" alt="Screenshot 2024-10-02 at 1 35 23 PM" src="https://github.com/user-attachments/assets/63d49800-14d3-4216-b659-7613e2a1654b">
 
     
 3) Create the HTML file to structure the web page.
