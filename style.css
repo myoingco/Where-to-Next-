@@ -1,15 +1,15 @@
 body {
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
-    color: black;
+    color: white;
 }
 #map {
     height: 100vh;
 }
 h1 {
     text-align: center; /* Center-aligns the heading */
-    color: black;
+    color: white;
 }
 html {
-    background-color: #ffffff;
+    background-color: #000000;
 }

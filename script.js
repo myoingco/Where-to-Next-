@@ -1,10 +1,20 @@
+// Create a custom black marker icon
+var blackIcon = new L.Icon({
+    iconUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/images/marker-icon.png', // Default Leaflet marker icon
+    iconSize: [25, 41], // Size of the marker
+    iconAnchor: [12, 41], // Anchor the marker to the bottom center
+    popupAnchor: [1, -34], // Popup opens above the marker
+    shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/images/marker-shadow.png',
+    shadowSize: [41, 41]
+});
+
 // Ensure the document is fully loaded before running the script
 document.addEventListener("DOMContentLoaded", function() {
     // Initialize the map and set its view to a specific location and zoom level
     var map = L.map('map').setView([20, 0], 2);
 
     // Add a tile layer to the map (you can use other providers like Mapbox, Esri, etc.)
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     }).addTo(map);
 
@@ -40,9 +50,10 @@ document.addEventListener("DOMContentLoaded", function() {
         [52.3791, 4.9003, "Amsterdam Centraal, Amsterdam, Netherlands"]
     ];
     
-    // Add markers to the map
+
+    // Add markers with custom black icon
     locations.forEach(function(location) {
-        L.marker([location[0], location[1]]).addTo(map)
+        L.marker([location[0], location[1]], { icon: blackIcon }).addTo(map)
             .bindPopup(location[2]);
     });
 });
