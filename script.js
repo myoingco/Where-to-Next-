@@ -51,7 +51,7 @@ document.addEventListener("DOMContentLoaded", function() {
         [52.3791, 4.9003, "Amsterdam Centraal, Amsterdam, Netherlands"],
         [41.414494, 2.152695, "Park Güell, Barcelona, Spain"],
         [38.8858, 1.4041, "Hï Ibiza, Ibiza, Spain"],
-        [37.3183, 23.1577, "Nikki Beach, Ibiza, Spain"],
+        [38.9921, 1.5692, "Nikki Beach, Ibiza, Spain"],
         [39.4908, 2.8917, "Llucmajor, Palma, Spain"]
     ];
     // Add markers with custom black icon
