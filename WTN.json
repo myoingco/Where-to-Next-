@@ -1,0 +1,252 @@
+[
+    {
+      "Place": "The Ritz Paris",
+      "City": "Paris",
+      "Country": "France",
+      "Latitude": 48.8681,
+      "Longitude": 2.3289,
+      "Date of Visit": "2/29/24",
+      "Description": "Tea Time with Mom",
+      "Category": "Hotel"
+    },
+    {
+      "Place": "Brooklyn Mirage",
+      "City": "Brooklyn",
+      "Country": "United States of America",
+      "Latitude": 40.7109,
+      "Longitude": 73.9258,
+      "Date of Visit": "7/29/23",
+      "Description": "Zeds Dead with Lesley",
+      "Category": "Venue"
+    },
+    {
+      "Place": "Las Vegas Motor Speedway",
+      "City": "Las Vegas",
+      "Country": "United States of America",
+      "Latitude": 36.2725,
+      "Longitude": 115.0104,
+      "Date of Visit": "5/18/24",
+      "Description": "First ever EDC",
+      "Category": "Landmark"
+    },
+    {
+      "Place": "La Jolla",
+      "City": "San Diego",
+      "Country": "United States of America",
+      "Latitude": 32.8328,
+      "Longitude": 117.2713,
+      "Date of Visit": "3/29/24",
+      "Description": "First Trip with Kobe",
+      "Category": "Beach"
+    },
+    {
+      "Place": "The Sebastian Hotel",
+      "City": "Vail",
+      "Country": "United States of America",
+      "Latitude": 39.6426,
+      "Longitude": 106.378,
+      "Date of Visit": "3/16/24",
+      "Description": "Ski Trip to Vail",
+      "Category": "Hotel"
+    },
+    {
+      "Place": "Grand Palace",
+      "City": "Brussels",
+      "Country": "Belgium",
+      "Latitude": 50.8468,
+      "Longitude": 4.3524,
+      "Date of Visit": "2/27/24",
+      "Description": "Sightseeing in Belgium",
+      "Category": "Landmark"
+    },
+    {
+      "Place": "Big Ben",
+      "City": "London",
+      "Country": "United Kingdom",
+      "Latitude": 51.5007,
+      "Longitude": 0.1246,
+      "Date of Visit": "11/30/23",
+      "Description": "First Time Seeing the Big Ben",
+      "Category": "Landmark"
+    },
+    {
+      "Place": "St. Regis",
+      "City": "Aspen",
+      "Country": "United States of America",
+      "Latitude": 39.1869,
+      "Longitude": 106.8211,
+      "Date of Visit": "1/13/24",
+      "Description": "Girl's Trip to Aspen",
+      "Category": "Hotel"
+    },
+    {
+      "Place": "Mila",
+      "City": "Miami",
+      "Country": "United States of America",
+      "Latitude": 25.7901,
+      "Longitude": 80.1367,
+      "Date of Visit": "5/13/24",
+      "Description": "Dinner with Friends",
+      "Category": "Restaurant"
+    },
+    {
+      "Place": "Adler Planetarium",
+      "City": "Chicago",
+      "Country": "United States of America",
+      "Latitude": 41.8664,
+      "Longitude": 87.6068,
+      "Date of Visit": "2/19/22",
+      "Description": "Favorite Spot in Chicago",
+      "Category": "Landmark"
+    },
+    {
+      "Place": "The Midway",
+      "City": "San Francisco",
+      "Country": "United States of America",
+      "Latitude": 37.7493,
+      "Longitude": 122.3857,
+      "Date of Visit": "10/2/23",
+      "Description": "Skrillex with the Girls",
+      "Category": "Venue"
+    },
+    {
+      "Place": "Piazza Del Duomo",
+      "City": "Milan",
+      "Country": "Italy",
+      "Latitude": 43.7731,
+      "Longitude": 11.2555,
+      "Date of Visit": "7/9/23",
+      "Description": "First time in Milan",
+      "Category": "Landmark"
+    },
+    {
+      "Place": "Conca dei Marini",
+      "City": "Amalfi",
+      "Country": "Italy",
+      "Latitude": 40.6163,
+      "Longitude": 14.5754,
+      "Date of Visit": "7/15/23",
+      "Description": "Yachting in Amalfi",
+      "Category": "Beach"
+    },
+    {
+      "Place": "The Louvre",
+      "City": "Paris",
+      "Country": "France",
+      "Latitude": 48.8606,
+      "Longitude": 2.3376,
+      "Date of Visit": "3/1/23",
+      "Description": "Spending hours at the Louvre",
+      "Category": "Museum"
+    },
+    {
+      "Place": "Red Light District",
+      "City": "Amsterdam",
+      "Country": "Netherlands",
+      "Latitude": 52.3719,
+      "Longitude": 4.8959,
+      "Date of Visit": "2/26/23",
+      "Description": "Met up with friends and ended the night with Frites",
+      "Category": "Landmark"
+    },
+    {
+      "Place": "Red Rocks",
+      "City": "Morrison",
+      "Country": "United States of America",
+      "Latitude": 39.6655,
+      "Longitude": 105.2052,
+      "Date of Visit": "11/11/23",
+      "Description": "Favorite Concert Venue in Colorado",
+      "Category": "Venue"
+    },
+    {
+      "Place": "Haleiwa",
+      "City": "Oahu",
+      "Country": "United States of America",
+      "Latitude": 21.5928,
+      "Longitude": 158.1034,
+      "Date of Visit": "6/17/22",
+      "Description": "Birthday trip to Hawaii",
+      "Category": "Beach"
+    },
+    {
+      "Place": "Supertree Observatory",
+      "City": "Marina Bay Area",
+      "Country": "Singapore",
+      "Latitude": 1.2816,
+      "Longitude": 103.8636,
+      "Date of Visit": "6/12/18",
+      "Description": "Sightseeing in Singapore",
+      "Category": "Landmark"
+    },
+    {
+      "Place": "Alona Beach",
+      "City": "Panglao",
+      "Country": "Phillippines",
+      "Latitude": 9.5486,
+      "Longitude": 123.774,
+      "Date of Visit": "6/14/18",
+      "Description": "Family trip to the Phillippines",
+      "Category": "Beach"
+    },
+    {
+      "Place": "Printworks",
+      "City": "London",
+      "Country": "United Kingdom",
+      "Latitude": 51.4975,
+      "Longitude": 0.0437,
+      "Date of Visit": "3/4/23",
+      "Description": "Caught a show at Printowrks ",
+      "Category": "Venue"
+    },
+    {
+      "Place": "Long Beach",
+      "City": "Los Angeles",
+      "Country": "United States of America",
+      "Latitude": 33.7701,
+      "Longitude": 118.1937,
+      "Date of Visit": "11/24/23",
+      "Description": "First ever Apocalypse Festival",
+      "Category": "Beach"
+    },
+    {
+      "Place": "Chocolate Hills",
+      "City": "Bohol",
+      "Country": "Phillippines",
+      "Latitude": 9.8297,
+      "Longitude": 124.1397,
+      "Date of Visit": "6/15/18",
+      "Description": "Family trip to the Phillippines",
+      "Category": "Landmark"
+    },
+    {
+      "Place": "Robertson Quay",
+      "City": "River Valley",
+      "Country": "Singapore",
+      "Latitude": 1.2908,
+      "Longitude": 103.8373,
+      "Date of Visit": "6/22/18",
+      "Description": "Second visit to Singapore",
+      "Category": "Landmark"
+    },
+    {
+      "Place": "Place Vendome",
+      "City": "Paris",
+      "Country": "France",
+      "Latitude": 48.8674,
+      "Longitude": 2.3294,
+      "Date of Visit": "7/5/23",
+      "Description": "Solo exploring and shopping",
+      "Category": "Landmark"
+    },
+    {
+      "Place": "Amsterdam Centraal",
+      "City": "Amsterdam",
+      "Country": "Netherlands",
+      "Latitude": 52.3791,
+      "Longitude": 4.9003,
+      "Date of Visit": "2/24/23",
+      "Description": "First time using public transportation in Europe",
+      "Category": "Landmark"
+    }
+   ]
