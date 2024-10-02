@@ -30,11 +30,11 @@ Complete the following steps:
     - Latitude
     - Longitude
     
-    /var/folders/h0/p6cqdlx17db0kxyxg9xxc18c0000gn/T/TemporaryItems/NSIRD_screencaptureui_XpBEAs/Screenshot 2024-10-02 at 11.05.44 AM.png
+    ![image](/var/folders/h0/p6cqdlx17db0kxyxg9xxc18c0000gn/T/TemporaryItems/NSIRD_screencaptureui_XpBEAs/Screenshot 2024-10-02 at 11.05.44 AM.png)
 
 2) Convert the CSV file into a JSON file utilizing Python.
 
-/var/folders/h0/p6cqdlx17db0kxyxg9xxc18c0000gn/T/TemporaryItems/NSIRD_screencaptureui_bM3rqK/Screenshot 2024-10-02 at 11.19.40 AM.png
+ ![image](/var/folders/h0/p6cqdlx17db0kxyxg9xxc18c0000gn/T/TemporaryItems/NSIRD_screencaptureui_bM3rqK/Screenshot 2024-10-02 at 11.19.40 AM.png)
     
 3) Create the HTML file to structure the web page.
     
