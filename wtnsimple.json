@@ -173,5 +173,33 @@
         "Country": "Netherlands",
         "Latitude": "52.3791",
         "Longitude": "4.9003"
+    },
+    {
+        "\ufeffName of Place": "Park Güell",
+        "City": "Barcelona",
+        "Country": "Spain",
+        "Latitude": "41.414494",
+        "Longitude": "2.152695"
+    },
+    {
+        "\ufeffName of Place": "Hï Ibiza",
+        "City": "Ibiza",
+        "Country": "Spain",
+        "Latitude": "38.8858",
+        "Longitude": "1.4041"
+    },
+    {
+        "\ufeffName of Place": "Nikki Beach",
+        "City": "Ibiza",
+        "Country": "Spain",
+        "Latitude": "37.3183",
+        "Longitude": "23.1577"
+    },
+    {
+        "\ufeffName of Place": "Llucmajor",
+        "City": "Palma",
+        "Country": "Spain",
+        "Latitude": "39.4908",
+        "Longitude": "2.8917"
     }
 ]

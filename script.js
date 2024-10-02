@@ -48,7 +48,11 @@ document.addEventListener("DOMContentLoaded", function() {
         [9.8297, 124.1397, "Chocolate Hills, Bohol, Philippines"],
         [1.2908, 103.8373, "Robertson Quay, River Valley, Singapore"],
         [48.8674, 2.3294, "Place Vendome, Paris, France"],
-        [52.3791, 4.9003, "Amsterdam Centraal, Amsterdam, Netherlands"]
+        [52.3791, 4.9003, "Amsterdam Centraal, Amsterdam, Netherlands"],
+        [41.414494, 2.152695, "Park Güell, Barcelona, Spain"],
+        [38.8858, 1.4041, "Hï Ibiza, Ibiza, Spain"],
+        [37.3183, 23.1577, "Nikki Beach, Ibiza, Spain"],
+        [39.4908, 2.8917, "Llucmajor, Palma, Spain"]
     ];
     // Add markers with custom black icon
     locations.forEach(function(location) {
