@@ -80,8 +80,8 @@
         "\ufeffName of Place": "Piazza Del Duomo",
         "City": "Milan",
         "Country": "Italy",
-        "Latitude": "43.7731",
-        "Longitude": "11.2555"
+        "Latitude": "45.4642",
+        "Longitude": "9.1897"
     },
     {
         "\ufeffName of Place": "Conca dei Marini",
@@ -196,10 +196,10 @@
         "Longitude": "1.5692"
     },
     {
-        "\ufeffName of Place": "Llucmajor",
+        "\ufeffName of Place": "Illetas Playa",
         "City": "Palma",
         "Country": "Spain",
-        "Latitude": "39.4908",
-        "Longitude": "2.8917"
+        "Latitude": "39.5367",
+        "Longitude": "2.5900"
     }
 ]

@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded", function() {
         [25.7901, -80.1367, "Mila, Miami, USA"],
         [41.8664, -87.6068, "Adler Planetarium, Chicago, USA"],
         [37.7493, -122.3857, "The Midway, San Francisco, USA"],
-        [43.7731, 11.2555, "Piazza Del Duomo, Milan, Italy"],
+        [45.2642, 9.1897, "Piazza Del Duomo, Milan, Italy"],
         [40.6163, 14.5754, "Conca dei Marini, Amalfi, Italy"],
         [48.8606, 2.3376, "The Louvre, Paris, France"],
         [52.3719, 4.8959, "Red Light District, Amsterdam, Netherlands"],
@@ -52,7 +52,7 @@ document.addEventListener("DOMContentLoaded", function() {
         [41.414494, 2.152695, "Park Güell, Barcelona, Spain"],
         [38.8858, 1.4041, "Hï Ibiza, Ibiza, Spain"],
         [38.9921, 1.5692, "Nikki Beach, Ibiza, Spain"],
-        [39.4908, 2.8917, "Llucmajor, Palma, Spain"]
+        [39.5367, 2.5900, "Illetas Playa, Palma, Spain"]
     ];
     // Add markers with custom black icon
     locations.forEach(function(location) {
